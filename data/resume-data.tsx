@@ -94,7 +94,7 @@ export const RESUME_DATA = {
             link: {
                 label: "create",
                 href: "/create",
-                git: ""
+                git: "https://github.com/00rei/00rei-api"
             },
             online: true
 
